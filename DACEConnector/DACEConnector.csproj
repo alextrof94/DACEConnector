@@ -97,11 +97,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormBrowser.cs">
+    <Compile Include="FormForAction.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormBrowser.Designer.cs">
-      <DependentUpon>FormBrowser.cs</DependentUpon>
+    <Compile Include="FormForAction.Designer.cs">
+      <DependentUpon>FormForAction.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -109,8 +109,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormBrowser.resx">
-      <DependentUpon>FormBrowser.cs</DependentUpon>
+    <EmbeddedResource Include="FormForAction.resx">
+      <DependentUpon>FormForAction.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -52,3 +52,7 @@ DACEConnector/publish/DACEConnector.application
 DACEConnector/publish/setup.exe
 DACEConnector/publish.zip
 DACEConnector/Secret.cs
+*.deploy
+DACEConnector/bin/Debug/app.publish/Application Files/DACEConnector_1_0_0_4/DACEConnector.exe.manifest
+DACEConnector/publish/Application Files/DACEConnector_1_0_0_4/DACEConnector.exe.manifest
+DACEConnector/publish/Application Files/DACEConnector_1_0_0_4/DACEConnector.application
